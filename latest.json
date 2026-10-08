@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.1/so-chi-tieu-1.0.1.apk",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.2/so-chi-tieu-1.0.2.apk",
   "sizeBytes": 66734891,
-  "notes": "Phiên bản 1.0.1\n- Thêm cập nhật ứng dụng ngay trong app (Cài đặt → Kiểm tra cập nhật).\n- Bỏ tính năng đính kèm ảnh hóa đơn.\n- Sửa cảnh báo ngân sách khi chi vượt 90%.\n- Khóa màn hình dọc.",
+  "notes": "Phiên bản 1.0.2\n- Bản thử nghiệm tính năng cập nhật ngay trong ứng dụng.",
   "mandatory": false,
   "minVersionCode": 0
 }
