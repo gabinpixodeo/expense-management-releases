@@ -1,19 +1,19 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.3/so-chi-tieu-1.0.3.apk",
-  "sizeBytes": 66751275,
-  "notes": "Giảm dung lượng app (tải bản phù hợp với máy, nhẹ hơn khoảng 60%). Cải thiện hiệu năng: giảm nóng máy và giật lag khi thêm giao dịch, xem thống kê và tìm kiếm.",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.4/so-chi-tieu-1.0.4.apk",
+  "sizeBytes": 68780604,
+  "notes": "Thêm mục Phim (Cài đặt → Giải trí → Phim): chọn tên phim để xem, tự nhớ chỗ đang xem.",
   "mandatory": false,
   "minVersionCode": 0,
   "apks": {
     "arm64-v8a": {
-      "url": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.3/so-chi-tieu-1.0.3-arm64-v8a.apk",
-      "sizeBytes": 25164865
+      "url": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.4/so-chi-tieu-1.0.4-arm64-v8a.apk",
+      "sizeBytes": 26272594
     },
     "armeabi-v7a": {
-      "url": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.3/so-chi-tieu-1.0.3-armeabi-v7a.apk",
-      "sizeBytes": 23018565
+      "url": "https://github.com/gabinpixodeo/expense-management-releases/releases/download/v1.0.4/so-chi-tieu-1.0.4-armeabi-v7a.apk",
+      "sizeBytes": 24126294
     }
   }
 }
